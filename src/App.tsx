@@ -15,7 +15,7 @@ export default function App() {
   };
 
   return (
-    <BrowserRouter>
+    <BrowserRouter basename={process.env.PUBLIC_URL}>
       <Routes>
         <Route path="/" element={<HomePage lang={lang} handleLangChange={handleLangChange} />} />
         <Route path="/menu" element={<Menu lang={lang} handleLangChange={handleLangChange} />} />
