@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "./static/css/main.26e0dbdd.chunk.css",
+    "main.js": "./static/js/main.d839432a.chunk.js",
+    "main.js.map": "./static/js/main.d839432a.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.8c9895b1.js",
+    "runtime-main.js.map": "./static/js/runtime-main.8c9895b1.js.map",
+    "static/js/2.9439b18b.chunk.js": "./static/js/2.9439b18b.chunk.js",
+    "static/js/2.9439b18b.chunk.js.map": "./static/js/2.9439b18b.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.26e0dbdd.chunk.css.map": "./static/css/main.26e0dbdd.chunk.css.map",
+    "static/js/2.9439b18b.chunk.js.LICENSE.txt": "./static/js/2.9439b18b.chunk.js.LICENSE.txt",
+    "static/media/Footer.scss": "./static/media/twitter.60bee918.svg",
+    "static/media/Menu.scss": "./static/media/close-icon.3dfd418a.svg",
+    "static/media/currEvents-first.d19b30a5.svg": "./static/media/currEvents-first.d19b30a5.svg",
+    "static/media/currEvents-second.558d489d.svg": "./static/media/currEvents-second.558d489d.svg",
+    "static/media/currExh-first.39650e27.svg": "./static/media/currExh-first.39650e27.svg",
+    "static/media/currExh-second.0a16b16e.svg": "./static/media/currExh-second.0a16b16e.svg",
+    "static/media/header-main-image.4aca30c1.svg": "./static/media/header-main-image.4aca30c1.svg",
+    "static/media/img_menu.036042bf.svg": "./static/media/img_menu.036042bf.svg",
+    "static/media/Header.scss": "./static/media/menu-icon-white.39a4d193.svg",
+    "static/media/namu-logo-museum.643eda96.svg": "./static/media/namu-logo-museum.643eda96.svg",
+    "static/media/news__image-first.10f9944b.svg": "./static/media/news__image-first.10f9944b.svg",
+    "static/media/news__image-second.51af0966.svg": "./static/media/news__image-second.51af0966.svg",
+    "static/media/plan-image.89360751.svg": "./static/media/plan-image.89360751.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8c9895b1.js",
+    "static/js/2.9439b18b.chunk.js",
+    "static/css/main.26e0dbdd.chunk.css",
+    "static/js/main.d839432a.chunk.js"
+  ]
+}
