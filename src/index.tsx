@@ -1,11 +1,14 @@
 import React from 'react';
-import ReactDOM from 'react-dom';
-import './index.scss';
-import { App } from './App';
+import { createRoot } from 'react-dom/client';
+import App from './App';
 
-ReactDOM.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>,
-  document.getElementById('root'),
-);
+const rootElement = document.getElementById('root');
+
+if (rootElement) {
+  const root = createRoot(rootElement);
+
+  root.render(<App />);
+} else {
+  // eslint-disable-next-line no-console
+  console.error('Root element not found in the document.');
+}
